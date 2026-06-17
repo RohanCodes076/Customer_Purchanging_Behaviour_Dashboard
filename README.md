@@ -44,7 +44,7 @@ Data Cleaning (Python)
    ↓
 Feature Engineering
    ↓
-PostgreSQL
+MySQL
    ↓
 SQL Analysis
    ↓
