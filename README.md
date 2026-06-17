@@ -35,7 +35,8 @@ Analyzed customer shopping behavior using Python, PostgreSQL, and Power BI to id
 
 ## 📈 Dashboard
 
-![Customer Shopping Behavior Dashboard](dashboard.png)
+![Customer Shopping Behavior Dashboard]
+https://github.com/RohanCodes076/Customer_Purchanging_Behaviour_Dashboard/blob/main/Dashboard.png
 
 ---
 
