@@ -5,6 +5,11 @@ Analyzed customer shopping behavior using Python, PostgreSQL, and Power BI to id
 
 ---
 
+## 📈 Dashboard
+<img src="Dashboard.png" width="1000">
+
+---
+
 ## 📊 Dataset
 - **Records:** 3,900
 - **Features:** 18
@@ -18,29 +23,7 @@ Analyzed customer shopping behavior using Python, PostgreSQL, and Power BI to id
 - Python
 - MySQL
 - Power BI
-
----
-
-## 🔍 Analysis Performed using SQL
-- Revenue by Gender
-- Subscribers vs Non-Subscribers
-- Customer Segmentation
-- Top Products by Rating
-- Revenue by Age Group
-- Shipping Type Analysis
-- Discount Impact Analysis
-- Repeat Buyer Analysis
-
----
-
-## 📈 Dashboard
-
-![Customer Shopping Behavior Dashboard] 
-<h2>📈 Dashboard</h2>
-
-<img src="Dashboard.png" width="1000">
-
-
+  
 ---
 
 ## 💡 Key Insights
@@ -49,3 +32,22 @@ Analyzed customer shopping behavior using Python, PostgreSQL, and Power BI to id
 - Express shipping customers spent more on average.
 - Some products showed high dependency on discounts.
 - Revenue varied across different age groups.
+
+---
+
+## 📂 Project Workflow
+
+```text
+Raw Data
+   ↓
+Data Cleaning (Python)
+   ↓
+Feature Engineering
+   ↓
+PostgreSQL
+   ↓
+SQL Analysis
+   ↓
+Power BI Dashboard
+   ↓
+Business Insights & Recommendations
